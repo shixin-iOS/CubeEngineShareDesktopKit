@@ -1,0 +1,6 @@
+framework module CubeEngineShareDesktopKit {
+  umbrella header "CubeEngineShareDesktopKit.h"
+
+  export *
+  module * { export * }
+}
